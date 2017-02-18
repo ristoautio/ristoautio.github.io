@@ -1,0 +1,28 @@
+html, body {
+    width: 100%;
+}
+
+#page-content{
+    height: 100%;
+}
+
+table {
+    margin: 0 auto;
+    border-collapse: collapse;
+    /*top: 50%;*/
+    position: relative;
+}
+
+td {
+    height: 20px;
+    width: 20px;
+    border: 1px solid rgba(200, 200, 200, 0.6);
+}
+
+.visited{
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+.active{
+    background-color: rgba(255, 0, 0, 0.7);
+}
