@@ -9,7 +9,6 @@ html, body {
 table {
     margin: 0 auto;
     border-collapse: collapse;
-    /*top: 50%;*/
     position: relative;
 }
 
